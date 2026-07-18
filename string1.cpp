@@ -12,7 +12,7 @@ int main() {
     string a,b;
     cin>>a>>b;
     if (comparestrings(a, b))
-        cout << "Strings are equal\n";
+        cout << "Strings are equal!\n";
     else
-        cout << "Strings are not equal\n";
+        cout << "Strings are not equal!\n";
 }
