@@ -12,6 +12,12 @@ A collection of Data Structures & Algorithms problems I'm solving in C++ as part
 | 2 | Valid Anagram | Hashing / Sorting |
 | 3 | Contains Duplicate | Hashing |
 | 4 | Check if Two Strings are Equal | Strings |
+| 5 | Armstrong Number | Math |
+| 6 | Count Digits | Math |
+| 7 | GCD / HCF | Math |
+| 8 | Min Stack | Stack |
+| 9 | Next Greater Element | Stack |
+| 10 | Sort a Stack | Stack |
 
 ## 🛠️ Tech
 
